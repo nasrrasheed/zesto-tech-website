@@ -7,59 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A000001294A1234567890AB /* CostEstimatorAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000000294A1234567890AB /* CostEstimatorAppApp.swift */; };
-		1A000003294A1234567890AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000002294A1234567890AB /* ContentView.swift */; };
-		1A000005294A1234567890AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A000004294A1234567890AB /* Assets.xcassets */; };
-		1A000008294A1234567890AB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A000007294A1234567890AB /* Preview Assets.xcassets */; };
-		1A00000A294A1234567890AB /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000009294A1234567890AB /* Persistence.swift */; };
-		1A00000D294A1234567890AB /* CostEstimatorApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1A00000B294A1234567890AB /* CostEstimatorApp.xcdatamodeld */; };
-		1A000020294A1234567890AB /* AuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00001F294A1234567890AB /* AuthenticationManager.swift */; };
-		1A000021294A1234567890AB /* SettingsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000020294A1234567890AB /* SettingsManager.swift */; };
-		1A000022294A1234567890AB /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000021294A1234567890AB /* LoginView.swift */; };
-		1A000023294A1234567890AB /* MainContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000022294A1234567890AB /* MainContentView.swift */; };
-		1A000024294A1234567890AB /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000023294A1234567890AB /* DashboardView.swift */; };
-		1A000025294A1234567890AB /* CustomersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000024294A1234567890AB /* CustomersView.swift */; };
-		1A000026294A1234567890AB /* AddEditCustomerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000025294A1234567890AB /* AddEditCustomerView.swift */; };
-		1A000027294A1234567890AB /* MaterialsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000026294A1234567890AB /* MaterialsView.swift */; };
-		1A000028294A1234567890AB /* AddEditMaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000027294A1234567890AB /* AddEditMaterialView.swift */; };
-		1A000029294A1234567890AB /* BulkUploadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000028294A1234567890AB /* BulkUploadView.swift */; };
-		1A00002A294A1234567890AB /* CSVTemplateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000029294A1234567890AB /* CSVTemplateView.swift */; };
-		1A00002B294A1234567890AB /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00002A294A1234567890AB /* ProjectsView.swift */; };
-		1A00002C294A1234567890AB /* QuotationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00002B294A1234567890AB /* QuotationsView.swift */; };
-		1A00002D294A1234567890AB /* ReportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00002C294A1234567890AB /* ReportsView.swift */; };
-		1A00002E294A1234567890AB /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00002D294A1234567890AB /* UsersView.swift */; };
-		1A00002F294A1234567890AB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00002E294A1234567890AB /* SettingsView.swift */; };
+		2A1B3C4D5E6F7890ABCD1234 /* CostEstimatorAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1233 /* CostEstimatorAppApp.swift */; };
+		2A1B3C4D5E6F7890ABCD1236 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1235 /* ContentView.swift */; };
+		2A1B3C4D5E6F7890ABCD1238 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1237 /* Assets.xcassets */; };
+		2A1B3C4D5E6F7890ABCD123B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD123A /* Preview Assets.xcassets */; };
+		2A1B3C4D5E6F7890ABCD123D /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD123C /* Persistence.swift */; };
+		2A1B3C4D5E6F7890ABCD1240 /* CostEstimatorApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD123E /* CostEstimatorApp.xcdatamodeld */; };
+		2A1B3C4D5E6F7890ABCD1242 /* AuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1241 /* AuthenticationManager.swift */; };
+		2A1B3C4D5E6F7890ABCD1244 /* SettingsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1243 /* SettingsManager.swift */; };
+		2A1B3C4D5E6F7890ABCD1246 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1245 /* LoginView.swift */; };
+		2A1B3C4D5E6F7890ABCD1248 /* MainContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1247 /* MainContentView.swift */; };
+		2A1B3C4D5E6F7890ABCD124A /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1249 /* DashboardView.swift */; };
+		2A1B3C4D5E6F7890ABCD124C /* CustomersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD124B /* CustomersView.swift */; };
+		2A1B3C4D5E6F7890ABCD124E /* AddEditCustomerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD124D /* AddEditCustomerView.swift */; };
+		2A1B3C4D5E6F7890ABCD1250 /* MaterialsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD124F /* MaterialsView.swift */; };
+		2A1B3C4D5E6F7890ABCD1252 /* AddEditMaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1251 /* AddEditMaterialView.swift */; };
+		2A1B3C4D5E6F7890ABCD1254 /* BulkUploadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1253 /* BulkUploadView.swift */; };
+		2A1B3C4D5E6F7890ABCD1256 /* CSVTemplateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1255 /* CSVTemplateView.swift */; };
+		2A1B3C4D5E6F7890ABCD1258 /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1257 /* ProjectsView.swift */; };
+		2A1B3C4D5E6F7890ABCD125A /* QuotationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD1259 /* QuotationsView.swift */; };
+		2A1B3C4D5E6F7890ABCD125C /* ReportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD125B /* ReportsView.swift */; };
+		2A1B3C4D5E6F7890ABCD125E /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD125D /* UsersView.swift */; };
+		2A1B3C4D5E6F7890ABCD1260 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1B3C4D5E6F7890ABCD125F /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1A000000294A1234567890AB /* CostEstimatorAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CostEstimatorAppApp.swift; sourceTree = "<group>"; };
-		1A000002294A1234567890AB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		1A000004294A1234567890AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1A000007294A1234567890AB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		1A000009294A1234567890AB /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
-		1A00000C294A1234567890AB /* CostEstimatorApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CostEstimatorApp.xcdatamodel; sourceTree = "<group>"; };
-		1A00000E294A1234567890AB /* CostEstimatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CostEstimatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A00000F294A1234567890AB /* CostEstimatorApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CostEstimatorApp.entitlements; sourceTree = "<group>"; };
-		1A00001F294A1234567890AB /* AuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationManager.swift; sourceTree = "<group>"; };
-		1A000020294A1234567890AB /* SettingsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsManager.swift; sourceTree = "<group>"; };
-		1A000021294A1234567890AB /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
-		1A000022294A1234567890AB /* MainContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContentView.swift; sourceTree = "<group>"; };
-		1A000023294A1234567890AB /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
-		1A000024294A1234567890AB /* CustomersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomersView.swift; sourceTree = "<group>"; };
-		1A000025294A1234567890AB /* AddEditCustomerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditCustomerView.swift; sourceTree = "<group>"; };
-		1A000026294A1234567890AB /* MaterialsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialsView.swift; sourceTree = "<group>"; };
-		1A000027294A1234567890AB /* AddEditMaterialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditMaterialView.swift; sourceTree = "<group>"; };
-		1A000028294A1234567890AB /* BulkUploadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulkUploadView.swift; sourceTree = "<group>"; };
-		1A000029294A1234567890AB /* CSVTemplateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVTemplateView.swift; sourceTree = "<group>"; };
-		1A00002A294A1234567890AB /* ProjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
-		1A00002B294A1234567890AB /* QuotationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotationsView.swift; sourceTree = "<group>"; };
-		1A00002C294A1234567890AB /* ReportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsView.swift; sourceTree = "<group>"; };
-		1A00002D294A1234567890AB /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
-		1A00002E294A1234567890AB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1230 /* CostEstimatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CostEstimatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A1B3C4D5E6F7890ABCD1233 /* CostEstimatorAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CostEstimatorAppApp.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1235 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1237 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD123A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD123C /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD123F /* CostEstimatorApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CostEstimatorApp.xcdatamodel; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1231 /* CostEstimatorApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CostEstimatorApp.entitlements; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1241 /* AuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationManager.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1243 /* SettingsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsManager.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1245 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1247 /* MainContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContentView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1249 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD124B /* CustomersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomersView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD124D /* AddEditCustomerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditCustomerView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD124F /* MaterialsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialsView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1251 /* AddEditMaterialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditMaterialView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1253 /* BulkUploadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulkUploadView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1255 /* CSVTemplateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVTemplateView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1257 /* ProjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD1259 /* QuotationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotationsView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD125B /* ReportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD125D /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
+		2A1B3C4D5E6F7890ABCD125F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1A000010294A1234567890AB /* Frameworks */ = {
+		2A1B3C4D5E6F7890ABCD122D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -69,72 +69,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1A000011294A1234567890AB = {
+		2A1B3C4D5E6F7890ABCD1227 = {
 			isa = PBXGroup;
 			children = (
-				1A000012294A1234567890AB /* CostEstimatorApp */,
-				1A000013294A1234567890AB /* Products */,
+				2A1B3C4D5E6F7890ABCD1232 /* CostEstimatorApp */,
+				2A1B3C4D5E6F7890ABCD1231 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1A000012294A1234567890AB /* CostEstimatorApp */ = {
+		2A1B3C4D5E6F7890ABCD1231 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1A000000294A1234567890AB /* CostEstimatorAppApp.swift */,
-				1A000002294A1234567890AB /* ContentView.swift */,
-				1A000030294A1234567890AB /* Models */,
-				1A000031294A1234567890AB /* Views */,
-				1A000009294A1234567890AB /* Persistence.swift */,
-				1A00000B294A1234567890AB /* CostEstimatorApp.xcdatamodeld */,
-				1A000004294A1234567890AB /* Assets.xcassets */,
-				1A00000F294A1234567890AB /* CostEstimatorApp.entitlements */,
-				1A000006294A1234567890AB /* Preview Content */,
-			);
-			path = CostEstimatorApp;
-			sourceTree = "<group>";
-		};
-		1A000006294A1234567890AB /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				1A000007294A1234567890AB /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		1A000013294A1234567890AB /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				1A00000E294A1234567890AB /* CostEstimatorApp.app */,
+				2A1B3C4D5E6F7890ABCD1230 /* CostEstimatorApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1A000030294A1234567890AB /* Models */ = {
+		2A1B3C4D5E6F7890ABCD1232 /* CostEstimatorApp */ = {
 			isa = PBXGroup;
 			children = (
-				1A00001F294A1234567890AB /* AuthenticationManager.swift */,
-				1A000020294A1234567890AB /* SettingsManager.swift */,
+				2A1B3C4D5E6F7890ABCD1233 /* CostEstimatorAppApp.swift */,
+				2A1B3C4D5E6F7890ABCD1235 /* ContentView.swift */,
+				2A1B3C4D5E6F7890ABCD123C /* Persistence.swift */,
+				2A1B3C4D5E6F7890ABCD1261 /* Models */,
+				2A1B3C4D5E6F7890ABCD1262 /* Views */,
+				2A1B3C4D5E6F7890ABCD1237 /* Assets.xcassets */,
+				2A1B3C4D5E6F7890ABCD1231 /* CostEstimatorApp.entitlements */,
+				2A1B3C4D5E6F7890ABCD123E /* CostEstimatorApp.xcdatamodeld */,
+				2A1B3C4D5E6F7890ABCD1239 /* Preview Content */,
+			);
+			path = CostEstimatorApp;
+			sourceTree = "<group>";
+		};
+		2A1B3C4D5E6F7890ABCD1239 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				2A1B3C4D5E6F7890ABCD123A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2A1B3C4D5E6F7890ABCD1261 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2A1B3C4D5E6F7890ABCD1241 /* AuthenticationManager.swift */,
+				2A1B3C4D5E6F7890ABCD1243 /* SettingsManager.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		1A000031294A1234567890AB /* Views */ = {
+		2A1B3C4D5E6F7890ABCD1262 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				1A000021294A1234567890AB /* LoginView.swift */,
-				1A000022294A1234567890AB /* MainContentView.swift */,
-				1A000023294A1234567890AB /* DashboardView.swift */,
-				1A000024294A1234567890AB /* CustomersView.swift */,
-				1A000025294A1234567890AB /* AddEditCustomerView.swift */,
-				1A000026294A1234567890AB /* MaterialsView.swift */,
-				1A000027294A1234567890AB /* AddEditMaterialView.swift */,
-				1A000028294A1234567890AB /* BulkUploadView.swift */,
-				1A000029294A1234567890AB /* CSVTemplateView.swift */,
-				1A00002A294A1234567890AB /* ProjectsView.swift */,
-				1A00002B294A1234567890AB /* QuotationsView.swift */,
-				1A00002C294A1234567890AB /* ReportsView.swift */,
-				1A00002D294A1234567890AB /* UsersView.swift */,
-				1A00002E294A1234567890AB /* SettingsView.swift */,
+				2A1B3C4D5E6F7890ABCD1245 /* LoginView.swift */,
+				2A1B3C4D5E6F7890ABCD1247 /* MainContentView.swift */,
+				2A1B3C4D5E6F7890ABCD1249 /* DashboardView.swift */,
+				2A1B3C4D5E6F7890ABCD124B /* CustomersView.swift */,
+				2A1B3C4D5E6F7890ABCD124D /* AddEditCustomerView.swift */,
+				2A1B3C4D5E6F7890ABCD124F /* MaterialsView.swift */,
+				2A1B3C4D5E6F7890ABCD1251 /* AddEditMaterialView.swift */,
+				2A1B3C4D5E6F7890ABCD1253 /* BulkUploadView.swift */,
+				2A1B3C4D5E6F7890ABCD1255 /* CSVTemplateView.swift */,
+				2A1B3C4D5E6F7890ABCD1257 /* ProjectsView.swift */,
+				2A1B3C4D5E6F7890ABCD1259 /* QuotationsView.swift */,
+				2A1B3C4D5E6F7890ABCD125B /* ReportsView.swift */,
+				2A1B3C4D5E6F7890ABCD125D /* UsersView.swift */,
+				2A1B3C4D5E6F7890ABCD125F /* SettingsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -142,13 +142,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1A000014294A1234567890AB /* CostEstimatorApp */ = {
+		2A1B3C4D5E6F7890ABCD122F /* CostEstimatorApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1A000015294A1234567890AB /* Build configuration list for PBXNativeTarget "CostEstimatorApp" */;
+			buildConfigurationList = 2A1B3C4D5E6F7890ABCD1263 /* Build configuration list for PBXNativeTarget "CostEstimatorApp" */;
 			buildPhases = (
-				1A000016294A1234567890AB /* Sources */,
-				1A000010294A1234567890AB /* Frameworks */,
-				1A000017294A1234567890AB /* Resources */,
+				2A1B3C4D5E6F7890ABCD122C /* Sources */,
+				2A1B3C4D5E6F7890ABCD122D /* Frameworks */,
+				2A1B3C4D5E6F7890ABCD122E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -156,25 +156,25 @@
 			);
 			name = CostEstimatorApp;
 			productName = CostEstimatorApp;
-			productReference = 1A00000E294A1234567890AB /* CostEstimatorApp.app */;
+			productReference = 2A1B3C4D5E6F7890ABCD1230 /* CostEstimatorApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1A000018294A1234567890AB /* Project object */ = {
+		2A1B3C4D5E6F7890ABCD1228 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					1A000014294A1234567890AB = {
+					2A1B3C4D5E6F7890ABCD122F = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
 			};
-			buildConfigurationList = 1A000019294A1234567890AB /* Build configuration list for PBXProject "CostEstimatorApp" */;
+			buildConfigurationList = 2A1B3C4D5E6F7890ABCD122B /* Build configuration list for PBXProject "CostEstimatorApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -182,60 +182,60 @@
 				en,
 				Base,
 			);
-			mainGroup = 1A000011294A1234567890AB;
-			productRefGroup = 1A000013294A1234567890AB /* Products */;
+			mainGroup = 2A1B3C4D5E6F7890ABCD1227;
+			productRefGroup = 2A1B3C4D5E6F7890ABCD1231 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1A000014294A1234567890AB /* CostEstimatorApp */,
+				2A1B3C4D5E6F7890ABCD122F /* CostEstimatorApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1A000017294A1234567890AB /* Resources */ = {
+		2A1B3C4D5E6F7890ABCD122E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A000008294A1234567890AB /* Preview Assets.xcassets in Resources */,
-				1A000005294A1234567890AB /* Assets.xcassets in Resources */,
+				2A1B3C4D5E6F7890ABCD123B /* Preview Assets.xcassets in Resources */,
+				2A1B3C4D5E6F7890ABCD1238 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1A000016294A1234567890AB /* Sources */ = {
+		2A1B3C4D5E6F7890ABCD122C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A00000A294A1234567890AB /* Persistence.swift in Sources */,
-				1A000003294A1234567890AB /* ContentView.swift in Sources */,
-				1A000001294A1234567890AB /* CostEstimatorAppApp.swift in Sources */,
-				1A00000D294A1234567890AB /* CostEstimatorApp.xcdatamodeld in Sources */,
-				1A000020294A1234567890AB /* AuthenticationManager.swift in Sources */,
-				1A000021294A1234567890AB /* SettingsManager.swift in Sources */,
-				1A000022294A1234567890AB /* LoginView.swift in Sources */,
-				1A000023294A1234567890AB /* MainContentView.swift in Sources */,
-				1A000024294A1234567890AB /* DashboardView.swift in Sources */,
-				1A000025294A1234567890AB /* CustomersView.swift in Sources */,
-				1A000026294A1234567890AB /* AddEditCustomerView.swift in Sources */,
-				1A000027294A1234567890AB /* MaterialsView.swift in Sources */,
-				1A000028294A1234567890AB /* AddEditMaterialView.swift in Sources */,
-				1A000029294A1234567890AB /* BulkUploadView.swift in Sources */,
-				1A00002A294A1234567890AB /* CSVTemplateView.swift in Sources */,
-				1A00002B294A1234567890AB /* ProjectsView.swift in Sources */,
-				1A00002C294A1234567890AB /* QuotationsView.swift in Sources */,
-				1A00002D294A1234567890AB /* ReportsView.swift in Sources */,
-				1A00002E294A1234567890AB /* UsersView.swift in Sources */,
-				1A00002F294A1234567890AB /* SettingsView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD123D /* Persistence.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1236 /* ContentView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1234 /* CostEstimatorAppApp.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1240 /* CostEstimatorApp.xcdatamodeld in Sources */,
+				2A1B3C4D5E6F7890ABCD1242 /* AuthenticationManager.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1244 /* SettingsManager.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1246 /* LoginView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1248 /* MainContentView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD124A /* DashboardView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD124C /* CustomersView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD124E /* AddEditCustomerView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1250 /* MaterialsView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1252 /* AddEditMaterialView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1254 /* BulkUploadView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1256 /* CSVTemplateView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1258 /* ProjectsView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD125A /* QuotationsView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD125C /* ReportsView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD125E /* UsersView.swift in Sources */,
+				2A1B3C4D5E6F7890ABCD1260 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1A00001A294A1234567890AB /* Debug */ = {
+		2A1B3C4D5E6F7890ABCD1264 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -298,7 +298,7 @@
 			};
 			name = Debug;
 		};
-		1A00001B294A1234567890AB /* Release */ = {
+		2A1B3C4D5E6F7890ABCD1265 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -353,7 +353,7 @@
 			};
 			name = Release;
 		};
-		1A00001C294A1234567890AB /* Debug */ = {
+		2A1B3C4D5E6F7890ABCD1266 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -365,9 +365,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"CostEstimatorApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Cost Estimator";
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "© 2024 Zesto Tech. All rights reserved.";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -380,7 +378,7 @@
 			};
 			name = Debug;
 		};
-		1A00001D294A1234567890AB /* Release */ = {
+		2A1B3C4D5E6F7890ABCD1267 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -392,9 +390,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"CostEstimatorApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Cost Estimator";
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "© 2024 Zesto Tech. All rights reserved.";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -410,20 +406,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1A000015294A1234567890AB /* Build configuration list for PBXNativeTarget "CostEstimatorApp" */ = {
+		2A1B3C4D5E6F7890ABCD122B /* Build configuration list for PBXProject "CostEstimatorApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1A00001C294A1234567890AB /* Debug */,
-				1A00001D294A1234567890AB /* Release */,
+				2A1B3C4D5E6F7890ABCD1264 /* Debug */,
+				2A1B3C4D5E6F7890ABCD1265 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1A000019294A1234567890AB /* Build configuration list for PBXProject "CostEstimatorApp" */ = {
+		2A1B3C4D5E6F7890ABCD1263 /* Build configuration list for PBXNativeTarget "CostEstimatorApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1A00001A294A1234567890AB /* Debug */,
-				1A00001B294A1234567890AB /* Release */,
+				2A1B3C4D5E6F7890ABCD1266 /* Debug */,
+				2A1B3C4D5E6F7890ABCD1267 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -431,17 +427,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		1A00000B294A1234567890AB /* CostEstimatorApp.xcdatamodeld */ = {
+		2A1B3C4D5E6F7890ABCD123E /* CostEstimatorApp.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				1A00000C294A1234567890AB /* CostEstimatorApp.xcdatamodel */,
+				2A1B3C4D5E6F7890ABCD123F /* CostEstimatorApp.xcdatamodel */,
 			);
-			currentVersion = 1A00000C294A1234567890AB /* CostEstimatorApp.xcdatamodel */;
+			currentVersion = 2A1B3C4D5E6F7890ABCD123F /* CostEstimatorApp.xcdatamodel */;
 			path = CostEstimatorApp.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = 1A000018294A1234567890AB /* Project object */;
+	rootObject = 2A1B3C4D5E6F7890ABCD1228 /* Project object */;
 }

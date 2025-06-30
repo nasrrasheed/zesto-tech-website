@@ -147,7 +147,6 @@ struct ProjectDetailView: View {
             .padding()
         }
         .navigationTitle("Project Details")
-        .navigationBarTitleDisplayMode(.inline)
     }
 }
 

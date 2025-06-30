@@ -94,7 +94,6 @@ struct AddEditCustomerView: View {
                 }
             }
             .navigationTitle(isEditing ? "Edit Customer" : "New Customer")
-            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Cancel") {

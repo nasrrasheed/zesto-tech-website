@@ -250,7 +250,6 @@ struct UserDetailView: View {
             .padding()
         }
         .navigationTitle("User Details")
-        .navigationBarTitleDisplayMode(.inline)
         .sheet(isPresented: $showingEditUser) {
             AddEditUserView(user: user)
         }
@@ -341,7 +340,6 @@ struct AddEditUserView: View {
                 }
             }
             .navigationTitle(isEditing ? "Edit User" : "New User")
-            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Cancel") {
@@ -421,7 +419,6 @@ struct ChangePasswordView: View {
                 }
             }
             .navigationTitle("Change Password")
-            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Cancel") {

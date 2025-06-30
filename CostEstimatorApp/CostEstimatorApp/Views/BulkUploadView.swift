@@ -206,7 +206,6 @@ struct BulkUploadView: View {
                 .padding(.bottom)
             }
             .navigationTitle("Bulk Upload")
-            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Close") {

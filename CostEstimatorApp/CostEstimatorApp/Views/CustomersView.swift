@@ -201,7 +201,6 @@ struct CustomerDetailView: View {
             .padding()
         }
         .navigationTitle("Customer Details")
-        .navigationBarTitleDisplayMode(.inline)
         .sheet(isPresented: $showingEditCustomer) {
             AddEditCustomerView(customer: customer)
         }

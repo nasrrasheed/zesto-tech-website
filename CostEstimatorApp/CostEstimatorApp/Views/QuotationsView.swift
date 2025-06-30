@@ -158,7 +158,6 @@ struct QuotationDetailView: View {
             .padding()
         }
         .navigationTitle("Quotation Details")
-        .navigationBarTitleDisplayMode(.inline)
     }
 }
 

@@ -150,7 +150,6 @@ struct AddEditMaterialView: View {
                 }
             }
             .navigationTitle(isEditing ? "Edit Material" : "New Material")
-            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Cancel") {

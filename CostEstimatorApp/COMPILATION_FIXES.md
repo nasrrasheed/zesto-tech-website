@@ -11,7 +11,15 @@
 - Made `Currency` enum conform to `Codable`
 - Fixed `User.id` property to be properly codable
 
-### 2. Core Data Model
+### 2. macOS Compatibility Issues
+**Issue**: `'navigationBarTitleDisplayMode' is unavailable in macOS`
+
+**Fix Applied**:
+- Removed all `navigationBarTitleDisplayMode` modifiers (iOS-specific)
+- Ensured all SwiftUI code is macOS-compatible
+- Verified no UIKit dependencies
+
+### 3. Core Data Model
 **Status**: ✅ Complete
 - All entities properly defined
 - Relationships correctly configured

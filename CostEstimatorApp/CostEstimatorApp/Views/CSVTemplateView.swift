@@ -124,7 +124,6 @@ INS001,Thermal Insulation,Square Meter,8.50,Square Meter,1.00
                 .padding(.bottom)
             }
             .navigationTitle("CSV Template")
-            .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Close") {

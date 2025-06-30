@@ -311,7 +311,6 @@ struct MaterialDetailView: View {
             .padding()
         }
         .navigationTitle("Material Details")
-        .navigationBarTitleDisplayMode(.inline)
         .sheet(isPresented: $showingEditMaterial) {
             AddEditMaterialView(material: material)
         }

@@ -1,0 +1,33 @@
+Item Code,Item Name,Storing UOM,Purchasing Amount,Consuming UOM,Conversion Unit
+CEM001,Portland Cement,Bag,25.00,Kg,50.00
+CEM002,White Cement,Bag,35.00,Kg,50.00
+STL001,Steel Rebar 12mm,Ton,2500.00,Kg,1000.00
+STL002,Steel Rebar 16mm,Ton,2550.00,Kg,1000.00
+STL003,Steel Rebar 20mm,Ton,2600.00,Kg,1000.00
+BLK001,Concrete Block 200mm,Piece,3.50,Piece,1.00
+BLK002,Concrete Block 150mm,Piece,2.80,Piece,1.00
+BLK003,AAC Block 200mm,Piece,4.20,Piece,1.00
+SND001,Fine Sand,Cubic Meter,45.00,Cubic Meter,1.00
+SND002,Coarse Sand,Cubic Meter,50.00,Cubic Meter,1.00
+GRV001,Coarse Aggregate 20mm,Cubic Meter,55.00,Cubic Meter,1.00
+GRV002,Coarse Aggregate 10mm,Cubic Meter,58.00,Cubic Meter,1.00
+PNT001,Emulsion Paint White,Liter,15.00,Liter,1.00
+PNT002,Emulsion Paint Colored,Liter,18.00,Liter,1.00
+PNT003,Enamel Paint,Liter,25.00,Liter,1.00
+TIL001,Ceramic Floor Tile 60x60,Square Meter,35.00,Square Meter,1.00
+TIL002,Ceramic Wall Tile 30x60,Square Meter,28.00,Square Meter,1.00
+TIL003,Porcelain Tile 80x80,Square Meter,65.00,Square Meter,1.00
+WIR001,Electrical Wire 1.5mm,Meter,1.80,Meter,1.00
+WIR002,Electrical Wire 2.5mm,Meter,2.50,Meter,1.00
+WIR003,Electrical Wire 4.0mm,Meter,3.80,Meter,1.00
+PIP001,PVC Pipe 110mm,Meter,12.00,Meter,1.00
+PIP002,PVC Pipe 160mm,Meter,18.50,Meter,1.00
+PIP003,Copper Pipe 15mm,Meter,8.50,Meter,1.00
+INS001,Thermal Insulation 50mm,Square Meter,8.50,Square Meter,1.00
+INS002,Thermal Insulation 75mm,Square Meter,12.00,Square Meter,1.00
+GYP001,Gypsum Board 12.5mm,Square Meter,6.50,Square Meter,1.00
+GYP002,Gypsum Board 15mm,Square Meter,7.20,Square Meter,1.00
+MOR001,Cement Mortar,Bag,18.00,Kg,25.00
+MOR002,Tile Adhesive,Bag,22.00,Kg,25.00
+WAT001,Waterproofing Membrane,Square Meter,15.50,Square Meter,1.00
+WAT002,Liquid Waterproofing,Liter,28.00,Liter,1.00
